@@ -10,4 +10,6 @@ int main(void){
     }
     for(int y = 0; y < 10; y++)
     printf("%d ", tally[y]);
+
+    
 }
